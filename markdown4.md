@@ -21,10 +21,11 @@ Ordered lists (& nesting)
       
 Tables & Web-links             e.g. www.google.com.      
 
-Resource        | Web-link   
---------------- | -------------------------------------------------------------------------------------------      
-Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
-Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
+Resource        | Web-link                                                                                     | Etc   
+--------------- | -------------------------------------------------------------------------------------------- | ---------   
+Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).                | Thing 1   
+Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  | Thing 2   
+Additional item | Not a link                                                                        | Thing 3   
 
 Inserting graphics    e.g. coffee-break & biscuits.   
 ![picture alt](img/Tea_Biscuits.jpg "Tea and biscuits anyone?").  
