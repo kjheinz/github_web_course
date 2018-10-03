@@ -28,7 +28,7 @@ Linear Models | [CRUK Github repo](https://bioinformatics-core-shared-training.g
 Additional extra-long item | Not a link | Thing 3   
 
 Inserting graphics    e.g. coffee-break & biscuits.   
-![picture alt](img/Tea_Biscuits.jpg "Tea and biscuits anyone?").  
+![picture alt](img/Tea_Biscuits.jpg "Mmmh delicious digestives")   
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
