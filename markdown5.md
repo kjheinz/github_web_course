@@ -33,7 +33,7 @@ Tick-boxes.
 - [x] Have we done that?   
 <b>HTML tricks</b>    
 
-<ins> Underlining text </ins>     
+<ins>Underlining text</ins>     
 
 Collapsing text(This may not work on old browsers).    
 <details>
@@ -44,6 +44,6 @@ Collapsing text(This may not work on old browsers).
 # Useful links.  
 Anchors within our document. 
 
-[Go to the top](#TheTop).  
+[Go to the top](#TheTop)   
 
-[Github documentation on Markdown](https://guides.github.com/features/mastering-markdown/).  
+[Github documentation on Markdown](https://guides.github.com/features/mastering-markdown/)   
