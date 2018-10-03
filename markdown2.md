@@ -18,7 +18,7 @@ Ordered lists (& nesting)
    1. Combining attributes  e.g. Bold and italics.   
    2. Quoting blocks of text.  
 
-> This is a quoted section.   
+> This is a quoted section.     
 
 Tables.   
 Web-links             e.g. www.google.com.   
