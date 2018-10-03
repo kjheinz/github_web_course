@@ -13,10 +13,12 @@ Bullet point lists (& nesting).
 * Point 2.  
 
 Ordered lists (& nesting)   
-1. Bold text.   
-2. Italics.   
+1. **Bold text.**   
+2. *Italics.*   
    1. Combining attributes  e.g. Bold and italics.   
    2. Quoting blocks of text.  
+
+> This is a quoted section.   
 
 Tables.   
 Web-links             e.g. www.google.com.   
