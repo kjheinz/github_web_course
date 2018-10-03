@@ -38,7 +38,7 @@ Tick-boxes.
 
 Collapsing text (this may not work on old browsers).    
 <details>
-    <summary>What is the answer?</summary>
+  <summary><b>What is the answer?</b></summary>
     <p>Obviously it is 42</p>
 </details>
 
