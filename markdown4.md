@@ -31,7 +31,9 @@ Inserting graphics    e.g. coffee-break & biscuits.
 ![picture alt](img/Tea_Biscuits.jpg "Mmmh delicious digestives!")   
 Tick-boxes.  
 - [ ] Have we done this?
-- [x] Have we done that?   
+- [ ] Have we done that?   
+- [x] Have we done nothing whatsoever
+
 HTML tricks           e.g. Underlining text     
                       e.g. Collapsing text.    
 
