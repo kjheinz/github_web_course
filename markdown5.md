@@ -31,11 +31,12 @@ Inserting graphics    e.g. coffee-break & biscuits.
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
+
 <b>HTML tricks</b>    
 
 <ins>Underlining text</ins>     
 
-Collapsing text(This may not work on old browsers).    
+Collapsing text (this may not work on old browsers).    
 <details>
     <summary>What is the answer?</summary>
     <p>Obviously it is 42</p>
